@@ -1,5 +1,5 @@
 'use strict';
-const count=71;
+const count=70;
 const el=id=>document.getElementById(id);
 const page=el('page');
 const path=n=>`pages/${String(n).padStart(2,'0')}.webp`;
